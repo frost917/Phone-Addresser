@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\programming\C#\Addresser\obj\Debug\netcoreapp2.2\Addresser.csprojAssemblyReference.cache
+C:\Users\user\Desktop\programming\C#\Addresser\obj\Debug\netcoreapp2.2\Addresser.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programming\C#\Addresser\obj\Debug\netcoreapp2.2\Addresser.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\programming\C#\Addresser\obj\Debug\netcoreapp2.2\Addresser.AssemblyInfo.cs
+C:\Users\user\Desktop\programming\C#\Addresser\bin\Debug\netcoreapp2.2\Addresser.deps.json
+C:\Users\user\Desktop\programming\C#\Addresser\bin\Debug\netcoreapp2.2\Addresser.runtimeconfig.json
+C:\Users\user\Desktop\programming\C#\Addresser\bin\Debug\netcoreapp2.2\Addresser.runtimeconfig.dev.json
+C:\Users\user\Desktop\programming\C#\Addresser\bin\Debug\netcoreapp2.2\Addresser.dll
+C:\Users\user\Desktop\programming\C#\Addresser\bin\Debug\netcoreapp2.2\Addresser.pdb
+C:\Users\user\Desktop\programming\C#\Addresser\obj\Debug\netcoreapp2.2\Addresser.dll
+C:\Users\user\Desktop\programming\C#\Addresser\obj\Debug\netcoreapp2.2\Addresser.pdb
